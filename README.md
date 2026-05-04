@@ -1,5 +1,16 @@
-## Hi there its Parham👋
+## Hi my name Is Parham Saravani👋
+=====
 
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=24292E)](https://t.me/Parham8300/)<!--
+Jonior FrontEnd Developer
 
-- 🌱 I’m currently learning ...
+--------
+
+- 🌍  I'm based in Pardis (Tehran)<br>
+- 📧  You can contact me at [parham.saravani@gmail.com](mailto:parham.saravani@gmail.com)<br>
+- 🧠  I'm learning Js<br>
+- 🤝  I'm opne to collabrating on Js based projects<br>
+
+Skills
+
+Socials
+
