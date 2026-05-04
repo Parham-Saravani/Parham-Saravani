@@ -1,7 +1,6 @@
 ## Hi there its Parham👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-Parham8300-blue?logo=telegram)](https://t.me/Parham8300/)
-<!--
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=24292E)](https://t.me/Parham8300/)<!--
 **Parham-Saravani/Parham-Saravani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
