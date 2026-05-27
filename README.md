@@ -25,7 +25,7 @@ I am passionate about web development. I love creating beautiful, responsive, an
 ### Socials:
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="45" height="45" /></a>
+    <a href="https://github.com/Parham-Saravani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="45" height="45" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="45" height="45" /></a>
 </p>
 
