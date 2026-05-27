@@ -12,7 +12,11 @@ I am passionate about web development. I love creating beautiful, responsive, an
 - 🧠  I'm learning Js<br>
 - 🤝  I'm opne to collabrating on Js based projects<br>
 
-Skills
-
+Skills:
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Javascript" target="_blank" rel="noreferrer">
+  <img src="" width="36" height="36" alt="Javascript" />
+</a>
+</p>
 Socials
 
