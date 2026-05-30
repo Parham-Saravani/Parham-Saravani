@@ -9,7 +9,7 @@ I am passionate about web development. I love creating beautiful, responsive, an
 
 - 🌍  I'm based in Pardis (Tehran)<br>
 - 📧  You can contact me at [parhamsaravani83@gmail.com](mailto:parhamsaravani83@gmail.com)<br>
-- 🧠  I'm learning Js<br>
+- 🧠  I'm currently improving my JavaScript and frontend development skills
 - 🤝  I'm opne to collabrating on Js based projects<br>
 
 
