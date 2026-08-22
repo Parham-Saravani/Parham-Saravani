@@ -6,7 +6,7 @@
 
 I'm passionate about web development and enjoy building modern, responsive, and user-friendly web applications.
 
-I mainly work with **HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap**. I also have experience with **Node.js, Express.js, and MongoDB**, and I'm continuously improving my JavaScript and frontend development skills.
+I mainly work with **HTML, CSS, JavaScript, Tailwind CSS. I also have experience with **Node.js, Express.js, and MongoDB**, and I'm continuously improving my JavaScript and frontend development skills.
 
 I enjoy building real projects, solving problems, and learning something new every day.
 
@@ -24,7 +24,6 @@ I enjoy building real projects, solving problems, and learning something new eve
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
