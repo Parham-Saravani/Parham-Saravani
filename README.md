@@ -6,7 +6,7 @@
 
 I'm passionate about web development and enjoy building modern, responsive, and user-friendly web applications.
 
-I mainly work with **HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap**. I also have experience working with **Node.js, Express.js, and MongoDB**, and I'm currently improving my JavaScript skills while exploring modern frontend technologies.
+I mainly work with **HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap**. I also have experience with **Node.js, Express.js, and MongoDB**, and I'm continuously improving my JavaScript and frontend development skills.
 
 I enjoy building real projects, solving problems, and learning something new every day.
 
@@ -32,22 +32,6 @@ I enjoy building real projects, solving problems, and learning something new eve
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
-
----
-
-### 🚀 Some of My Projects
-
-**🛒 Vertex Store**
-A full e-commerce project built with Vanilla JavaScript, Tailwind CSS, Express.js and MongoDB.
-
-**🎬 Cinevox**
-A modern movie and series streaming platform built with Vanilla JavaScript and Tailwind CSS.
-
-**🤖 Nexa-AI**
-An AI chat application built with JavaScript, featuring Markdown support and IndexedDB.
-
-**🪶 Persian Poetry Explorer**
-A Persian poetry application built with JavaScript and the Ganjoor API.
 
 ---
 
