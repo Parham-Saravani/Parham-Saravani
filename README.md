@@ -1,31 +1,63 @@
-Hi 🙋‍♂️ my name Is Parham Saravani
-=====
+# Hi 👋 I'm Parham Saravani
 
-### Jonior FrontEnd Developer
+### Junior Frontend Developer
 
 ---
 
-I am passionate about web development. I love creating beautiful, responsive, and user-friendly websites that provide great user experiences. Currently, I am focused on learning modern frontend technologies and improving my skills in HTML, CSS, and JavaScript. I enjoy building real projects and learning something new every day. My goal is to become a professional FullStack developer and create amazing web applications.
+I'm passionate about web development and enjoy building modern, responsive, and user-friendly web applications.
 
-- 🌍  Based in Tehran, Iran
-- 📧  You can contact me at [parhamsaravani83@gmail.com](mailto:parhamsaravani83@gmail.com)<br>
-- 🧠  I'm currently improving my JavaScript and frontend development skills
-- 🤝  I'm opne to collabrating on Js based projects<br>
+I mainly work with **HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap**. I also have experience working with **Node.js, Express.js, and MongoDB**, and I'm currently improving my JavaScript skills while exploring modern frontend technologies.
 
+I enjoy building real projects, solving problems, and learning something new every day.
 
-### Skills:
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="45" height="45" alt="Javascript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="45" height="45" alt="HTML5" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
-    <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Parham-Saravani/Parham-Saravani/117c3e04fa5a212738f84c5085a21f725ac7ed0d/Icons/Tailwind.svg" width="45" height="45" alt="Tailwind Css" /></a>
-</p>
+* 🌍 Based in Tehran, Iran
+* 📧 [parhamsaravani83@gmail.com](mailto:parhamsaravani83@gmail.com)
+* 🧠 Currently improving my JavaScript skills
+* 🚀 Currently learning React
+* 🤝 Open to collaborating on JavaScript projects
 
+---
 
-### Socials:
+### 🛠️ Skills
 
 <p align="left">
-    <a href="https://github.com/Parham-Saravani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="45" height="45" /></a>
-    <a href="https://www.linkedin.com/in/parham-saravani-63b56a374" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="45" height="45" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
+---
+
+### 🚀 Some of My Projects
+
+**🛒 Vertex Store**
+A full e-commerce project built with Vanilla JavaScript, Tailwind CSS, Express.js and MongoDB.
+
+**🎬 Cinevox**
+A modern movie and series streaming platform built with Vanilla JavaScript and Tailwind CSS.
+
+**🤖 Nexa-AI**
+An AI chat application built with JavaScript, featuring Markdown support and IndexedDB.
+
+**🪶 Persian Poetry Explorer**
+A Persian poetry application built with JavaScript and the Ganjoor API.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Parham-Saravani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/parham-saravani-63b56a374">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
