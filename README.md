@@ -12,7 +12,6 @@ I enjoy building real projects, solving problems, and learning something new eve
 
 * 🌍 Based in Tehran, Iran
 * 📧 [parhamsaravani83@gmail.com](mailto:parhamsaravani83@gmail.com)
-* 🧠 Currently improving my JavaScript skills
 * 🚀 Currently learning React
 * 🤝 Open to collaborating on JavaScript projects
 
